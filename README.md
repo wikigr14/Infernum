@@ -1,4 +1,4 @@
 # Infernum
 Infernum The Game
 
-Unity 2022.3.60f1
+Unity 6000.0.42f1
